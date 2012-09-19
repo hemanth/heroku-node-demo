@@ -9,6 +9,10 @@
   "Dependencies": {
      "Express": "2.2.0"
    },
+  "engines": {
+    "node": "0.8.x",
+    "npm":  "1.1.x"
+  },
   "repository": "",
   "author": "hemanth.hm",
   "license": "BSD"
