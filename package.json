@@ -8,7 +8,7 @@
   },
   "Dependencies": {
      "Express": "2.2.0",
-     "ws" :"0.0.4"
+     "ws" :"0.4.x"
    },
   "engines": {
     "node": "0.8.x",
