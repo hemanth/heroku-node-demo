@@ -2,9 +2,9 @@
   "name": "node-socket",
   "version": "1.0.0",
   "description": "Node socket demo",
-  "main": "server.js",
+  "main": "echo.js",
   "scripts": {
-    "test": "server.js"
+    "test": "echo.js"
   },
   "Dependencies": {
      "Express": "2.2.0"
