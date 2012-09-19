@@ -3,10 +3,12 @@
 
 * Create a node app and test locally.
 
-* Install and setup heroku
+* Add a Procfile with `web: node server.js`
 
-* `$ heroku create <app_name> -stack cedar
+* Install and setup heroku gem.
+
+* `$ heroku app:create <app_name>
 
 * `$ git push heroku master`
 
-`:wq
+* `heroku ps:scale web=1`
