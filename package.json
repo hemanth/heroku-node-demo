@@ -8,7 +8,7 @@
   },
   "Dependencies": {
      "Express": "2.2.0"
-   }
+   },
   "repository": "",
   "author": "hemanth.hm",
   "license": "BSD"
